@@ -1,0 +1,141 @@
+.container{
+background-position: fixed;
+border: solid 50Px;color: blue;margin: 5%;
+border-bottom: none;
+
+}
+
+
+.logo{
+   width: 2%;
+   float: left
+}
+.content{
+    padding: 30px 10px 5px 2px
+    
+    
+    
+}
+
+.bars{
+  float: right;
+
+  
+  
+  
+
+}  
+.bars ul li{
+padding:  0px 6px 8px 4px;
+justify-content: right;
+display:inline-block
+}
+.heading{
+  padding: 12%;
+  text-align: center;
+  color: blue;
+}
+ #nest{
+  color: chartreuse;
+ }   
+  .blue{
+    color: chartreuse;
+  }
+  .button{
+    padding: 16px;
+    background-color: blue;
+    margin-right: 12%;
+  }
+  .building{
+    float: none;
+    width: 100%;
+    height: 100%;
+
+     
+    
+    
+  }
+  .jack{
+    width: 5%;
+    
+  }
+  .fits{
+    width: 3%;
+  }
+.smithey{
+  width: 3%;
+}
+.ringwa{
+  width: 5%;
+}
+.active{
+  float:right;
+  background-color:aqua
+  
+}
+.scan{
+  float: right;
+  background-color: aqua;
+}
+.percent{
+  float: right;
+  background-color: coral
+  
+  
+}
+.colors{
+  
+
+}
+.orders{
+  display: flex;
+  justify-content: end;
+  justify-content: space-around;
+  margin-left: 60%;
+  
+}
+.last{
+display:flex ;
+  justify-content: end; 
+  justify-content: space-between;
+  
+
+}
+.much{
+margin-left: 15%;
+}
+
+.manage{
+  margin-left: 2%;
+}
+.unique{
+  margin-left: 10%;
+}
+.same{
+  margin-left: 20%;
+}
+.see{
+  background-color:green ;
+  padding: 5px;
+  color: white;
+font-size: large;
+padding: 0px 6px;
+}
+
+    
+
+
+
+    
+  
+    
+    
+  
+    
+    
+   
+    
+    
+    
+
+    
